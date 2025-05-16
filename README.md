@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm yuyunhao</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h1 align="center">Hi there👋, I'm yuyunhao, a 26 years old guy called uncle by kids😅</h1>
+<h3 align="center">一名【四年开发经验】的前端开发</h3>
 
-- 🌱 I’m currently learning web3 **hardhat,solidity,NFT**
+- 🤝 我正在寻求一份web前端开发的远程工作
 
-- 💬 Ask me about **react,vue**
+- 🎃 前端框架：**react next.js, vue[2.x_3.x]**
 
-- 📫 How to reach me **hope392163@163.com**
+- 🎩 后端技术：**node.js koa2 express, mysql, mongodb, prisma**
 
-- ⚡ Fun fact **a misterious guy committed to study Yi,Bazi etc.**
+- ⚡ 个人爱好：我致力于研究命理学，包括**八字、紫微斗数、梅花易数**等。如果有需要咨询命理，探讨命运相关的可以联系我。
+
+- 👯 开源工具：邵子易数中策轨数法计算工具、梅花易数案例记录分析工具、八字案例工具[improving...]
+
+- 💬 英语技能：高考英语130+，大学英语六级、目前正在备考雅思，喜欢美剧，能完成基本的口语交流，希望能遇见一起学习英语的小伙伴！
+
+- 🌱 学习进步：我正在学习 web3智能合约开发 **hardhat,solidity,NFT...**，有想一起学习web3并做区块链项目的小伙伴请联系我！
+
+- 📫 联系方式： **15937555617**【wechat】，**hope392163@163.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
